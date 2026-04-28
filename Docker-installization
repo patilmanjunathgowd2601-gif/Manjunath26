@@ -1,0 +1,4 @@
+#Steps to download docker in local
+ 
+Sudo apt update 
+Sudo apt install Docker.io
